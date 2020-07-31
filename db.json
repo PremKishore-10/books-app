@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "title": "The parable of pipelines",
+      "rating": "4.1",
+      "id": 1
+    },
+    {
+      "title": "Can love happen twice",
+      "rating": "4.7",
+      "id": 3
+    },
+    {
+      "title": "I too had a love story",
+      "rating": "3.9",
+      "id": 4
+    },
+    {
+      "title": "A good book",
+      "rating": "4",
+      "id": 5
+    },
+    {
+      "title": "A good book",
+      "rating": "2",
+      "id": 6
+    }
+  ]
+}
